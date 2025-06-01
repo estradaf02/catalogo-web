@@ -1,4 +1,4 @@
-# Catálogo web documentación básica
+# Catálogo web documentación básica.
 
 Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
 ---
