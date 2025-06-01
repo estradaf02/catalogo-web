@@ -1,2 +1,6 @@
-# catalogo-web
-Mi primer sitio web para el mundo
+# Catálogo Web documentación básica
+Este proyecto es un ....
+## Lelguajes aprendidos:
+- HTML
+- CSS
+- MARKDOWN
