@@ -11,7 +11,7 @@ Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
 ## Etiquetas HTML semánticas:
 
 - `<header>`: Es el título de la pestaña que se muestra en el navegador
-- `<main>`: Representa el contenido principal que se encuentra dentro de  <body>.
+- `<main>`: Representa el contenido principal que se encuentra dentro de  `<body>`...`</body>`
 - `<section>`: Representa una sección temática de contenido, típicamente con un encabezado.
 
 ---
