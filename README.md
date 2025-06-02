@@ -24,4 +24,4 @@ Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
 - `background-color:` #1f1f1f;
 
 ## Vinculación entre Markdown y HTML
-![Link HTML del Proyecto](https://github.com/estradaf02/catalogo-web/blob/main/demo/index.html)
+[Link HTML del Proyecto](https://github.com/estradaf02/catalogo-web/blob/main/demo/index.html)
